@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Hotel ABC",
+      "city": "New York",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Grand Hotel",
+      "city": "Paris",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Beach Resort",
+      "city": "Miami",
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Mountain Lodge",
+      "city": "Aspen",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "name": "City View Hotel",
+      "city": "London",
+      "rating": 4.0
+    }
+  ]
+  
